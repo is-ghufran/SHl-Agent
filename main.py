@@ -1,4 +1,3 @@
-%%writefile main.py
 import os
 import json
 import httpx
